@@ -1,0 +1,15 @@
+package bytebnk;
+
+public class TesteReferencia {
+   public static void main(String[] args) {
+	Conta primeiraConta = new Conta();
+	
+	System.out.println("saldo da primeira: " + primeiraConta.saldo);
+	
+	 Conta sungundaConta = primeiraConta;
+	 
+	System.out.println("saldo da primeira: " + segundaConta.saldo);
+
+	 
+}
+}
