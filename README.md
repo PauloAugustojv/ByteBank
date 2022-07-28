@@ -6,8 +6,8 @@ ByteBank é a simulação de um banco escrito em JavaScript com a intenção de 
 
 Conhecimentos adquiridos:
 
-* Aprofundei meusconhecimentos em Orientação a objetos
-* utilizado o estilo de tipagem "DuckType"
+* Aprofundei meus conhecimentos em Orientação a objetos
+* utilizando o estilo de tipagem "DuckType"
 * utlização de heranças dentro do projeto
 * boas práticas de programação
 * código JavaScript moderno 
